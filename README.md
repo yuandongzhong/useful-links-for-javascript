@@ -14,6 +14,7 @@ If you have good links to share to all of us, please submit in issues :)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 * [Vue.js](https://vuejs.org/v2/guide/)
 * [React.js](https://reactjs.org/docs/getting-started.html)
+* [Lodash](https://lodash.com/docs/)
 
 ## Online Tools
 * [Google Fonts - Making the web more beautiful, fast, and open through great typography.](https://fonts.google.com/)
