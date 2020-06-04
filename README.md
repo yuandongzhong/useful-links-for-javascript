@@ -15,6 +15,8 @@ If you have good links to share to all of us, please submit in issues :)
 * [Vue.js](https://vuejs.org/v2/guide/)
 * [React.js](https://reactjs.org/docs/getting-started.html)
 * [Lodash](https://lodash.com/docs/)
+* [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
 
 ## Online Tools
 * [Google Fonts - Making the web more beautiful, fast, and open through great typography.](https://fonts.google.com/)
@@ -24,6 +26,7 @@ If you have good links to share to all of us, please submit in issues :)
 # References
 * [Online Interactive JavaScript Cheat Sheet
 ](https://htmlcheatsheet.com/js/)
+* [Awesome Javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things.](https://github.com/sorrycc/awesome-javascript)
 
 
 ## Community
