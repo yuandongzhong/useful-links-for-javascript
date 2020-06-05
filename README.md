@@ -22,7 +22,7 @@ If you have good links to share to all of us, please submit in issues :)
 * [An Overview of CSS: An Art, a Science, a Nightmare](https://www.taniarascia.com/overview-of-css-concepts/) - 2019/12/02
 * [Getting Started with Vue - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-vue/) - 2019/05/16
 * [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/) - 2018/08/20
-
+* [ES6 Syntax and Feature Overview](https://www.taniarascia.com/es6-syntax-and-feature-overview/) - 2018/04/09
 
 ## Online Tools
 * [Google Fonts - Making the web more beautiful, fast, and open through great typography.](https://fonts.google.com/)
@@ -32,7 +32,7 @@ If you have good links to share to all of us, please submit in issues :)
 
 
 
-# References
+## References
 * [Online Interactive JavaScript Cheat Sheet
 ](https://htmlcheatsheet.com/js/)
 * [Awesome Javascript - A collection of awesome browser-side JavaScript libraries, resources and shiny things.](https://github.com/sorrycc/awesome-javascript)
