@@ -22,6 +22,9 @@ If you have good links to share to all of us, please submit in issues :)
 * [Google Fonts - Making the web more beautiful, fast, and open through great typography.](https://fonts.google.com/)
 * [CodePen - Build, Test, and Discover Front-end Code.](https://codepen.io/)
 * [JSFiddle - Test your JavaScript, CSS, HTML or CoffeeScript online](https://reactjs.org/docs/getting-started.html)
+* [DevDocs API Documentation - Fast, offline, and free documentation browser for developers.](https://devdocs.io/)
+
+
 
 # References
 * [Online Interactive JavaScript Cheat Sheet
