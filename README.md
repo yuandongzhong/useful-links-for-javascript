@@ -18,6 +18,12 @@ If you have good links to share to all of us, please submit in issues :)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 
+## Popular Articles
+* [An Overview of CSS: An Art, a Science, a Nightmare](https://www.taniarascia.com/overview-of-css-concepts/) - 2019/12/02
+* [Getting Started with Vue - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-vue/) - 2019/05/16
+* [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/) - 2018/08/20
+
+
 ## Online Tools
 * [Google Fonts - Making the web more beautiful, fast, and open through great typography.](https://fonts.google.com/)
 * [CodePen - Build, Test, and Discover Front-end Code.](https://codepen.io/)
@@ -34,6 +40,11 @@ If you have good links to share to all of us, please submit in issues :)
 
 ## Community
 * [Reddit - r/javascript](https://www.reddit.com/r/javascript/)
+
+
+## Blogs
+* [Tania Rascia](https://www.taniarascia.com/)
+* [Valention's blog on JavaScript](https://www.valentinog.com/blog/)
 
 
 ## Tutorials
