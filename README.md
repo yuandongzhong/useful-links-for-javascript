@@ -51,6 +51,11 @@ If you have good links to share to all of us, please submit in issues :)
 ## Tutorials
 * [The Modern JavaScript Tutorial](http://javascript.info/)
 
+
+## Paid Courses
+* [Frontend Masters](https://frontendmasters.com/)
+
+
 ## Fun
 * [Dilbert](https://dilbert.com/)
 
