@@ -23,6 +23,7 @@ If you have good links to share to all of us, please submit in issues :)
 * [Getting Started with Vue - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-vue/) - 2019/05/16
 * [Getting Started with React - An Overview and Walkthrough Tutorial](https://www.taniarascia.com/getting-started-with-react/) - 2018/08/20
 * [ES6 Syntax and Feature Overview](https://www.taniarascia.com/es6-syntax-and-feature-overview/) - 2018/04/09
+* ...more
 
 ## Online Tools
 * [Google Fonts - Making the web more beautiful, fast, and open through great typography.](https://fonts.google.com/)
