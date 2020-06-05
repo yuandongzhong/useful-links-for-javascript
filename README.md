@@ -4,7 +4,7 @@ This is a collection of web links that JavaScript developers might find useful, 
 If you have good links to share to all of us, please submit in issues :)
 
 ## Popular
-* [Google](https://www.gogole.com)
+* [Google](https://www.google.com)
 * [Stack Overflow](https://stackoverflow.com/)
 * [Github](https://github.com/)
 
