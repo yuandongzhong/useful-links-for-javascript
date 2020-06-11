@@ -14,7 +14,7 @@ If you have good links to share to all of us, please submit in issues :)
 
 
 ## Popular Article
-* [All I need to know about ECMAScript modules](https://www.valentinog.com/blog/es-modules/) - 2020/06/05
+* [All I need to know about ECMAScript modules](https://www.valentinog.com/blog/es-modules/) - 2020/06/05 
 * [A mostly complete guide to webpack (2020)](https://www.valentinog.com/blog/webpack/) - 2020/06/05
 * [A practical, complete guide to HTTP cookies](https://www.valentinog.com/blog/cookies/) - 2020/06/03
 * [An Overview of CSS: An Art, a Science, a Nightmare](https://www.taniarascia.com/overview-of-css-concepts/) - 2019/12/02
