@@ -40,6 +40,7 @@ If you have good links to share to all of us, please submit in issues :)
 
 ## Community
 * [Reddit - r/javascript](https://www.reddit.com/r/javascript/)
+* [Reddit - r/nodejs](https://www.reddit.com/r/nodejs/)
 
 
 ## Blogs
