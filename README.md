@@ -14,6 +14,7 @@ If you have good links to share to all of us, please submit in issues :)
 
 
 ## Popular Article
+* [TypeScript Tutorial For Beginners: Your Friendly Guide](https://www.valentinog.com/blog/typescript/) - 2020/02/07 
 * [How babel preset-env, core-js, and browserslistrc work together](https://www.valentinog.com/blog/preset-env/) - 2020/05/22 
 * [All I need to know about ECMAScript modules](https://www.valentinog.com/blog/es-modules/) - 2020/06/05 
 * [A mostly complete guide to webpack (2020)](https://www.valentinog.com/blog/webpack/) - 2020/06/05
