@@ -25,6 +25,9 @@ If you have good links to share to all of us, please submit in issues :)
 * [ES6 Syntax and Feature Overview](https://www.taniarascia.com/es6-syntax-and-feature-overview/) - 2018/04/09
 * ...more
 
+## Development Tools
+* [Jsonman - Create a fake JSON API with zero code within 10 seconds.](https://jsonman.bakchoi.com/)
+
 ## Online Tools
 * [Google Fonts - Making the web more beautiful, fast, and open through great typography.](https://fonts.google.com/)
 * [CodePen - Build, Test, and Discover Front-end Code.](https://codepen.io/)
